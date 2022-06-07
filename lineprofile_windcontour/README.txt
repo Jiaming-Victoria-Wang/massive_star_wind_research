@@ -5,4 +5,4 @@ This folder contains the wind_contour_plot.ipynb that plots the wind countour vi
 
 All codes do not take input files. Remember to specify parameters R_shock and T_star in each code. The other parameters (R_star, V_inf, M_lossrate) will not affect the final plots.
 
-Some errors are encountered when parameter beta is set to 1, or other integers. 
+Some errors are encountered when parameter beta is set to 1, or other integers. But overall the code runs fine.
